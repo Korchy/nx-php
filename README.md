@@ -5,7 +5,7 @@ Language extensions
 
 Usage
 ================
-require_once("language_nx.inc.php");
+require_once("nx_language.inc.php");
 
 $Lang = new LanguageNx();
 
